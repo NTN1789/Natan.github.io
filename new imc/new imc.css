@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+body{
+
+    padding:10px ;
+    background-color:#8b8b70  ;
+    font-family:"Lato", sans-serif ;
+}
+
+#paragraph-result{
+
+    margin-top:50px ;
+
+}
+
+input{
+    margin-top:5px ;
+    width:200px ;
+}
+
+label{
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
